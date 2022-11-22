@@ -191,7 +191,7 @@ controller actions to return the requested information. We also learned how to
 use a built-in tool, `resources`, as an easier way to set up routes that follow
 **REST conventions**.
 
-## Check For Understanding
+## Check For to handle the requests as well as the Understanding
 
 Before you move on, make sure you can answer the following questions:
 
